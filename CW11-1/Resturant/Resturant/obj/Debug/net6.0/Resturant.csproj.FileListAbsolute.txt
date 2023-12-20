@@ -1,0 +1,64 @@
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\appsettings.json
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.exe
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.deps.json
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.runtimeconfig.json
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.dll
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.pdb
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.AssemblyReference.cache
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfoInputs.cache
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfo.cs
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets\msbuild.Resturant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets\msbuild.build.Resturant.props
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Resturant.props
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Resturant.props
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\scopedcss\bundle\Resturant.styles.css
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.CopyComplete
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.dll
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\refint\Resturant.dll
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.pdb
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.genruntimeconfig.cache
+C:\Users\maleki\Desktop\CW11-1\Resturant\Resturant\obj\Debug\net6.0\ref\Resturant.dll
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\appsettings.json
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.exe
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.deps.json
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.runtimeconfig.json
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.dll
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Resturant.pdb
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.AssemblyReference.cache
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfoInputs.cache
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfo.cs
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets\msbuild.Resturant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets\msbuild.build.Resturant.props
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Resturant.props
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Resturant.props
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\scopedcss\bundle\Resturant.styles.css
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.CopyComplete
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.dll
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\refint\Resturant.dll
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.pdb
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\Resturant.genruntimeconfig.cache
+C:\Users\Navid\Documents\My Files\MaktabC#\CW11-1\CW11-1_2\CW11-1\Resturant\Resturant\obj\Debug\net6.0\ref\Resturant.dll

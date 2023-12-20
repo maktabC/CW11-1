@@ -1,0 +1,1 @@
+food name: برگر   food type: چیزبرگر با سس اضافه  is available: موجود  side dishes: گوجه 
